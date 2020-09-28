@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5600b21a-3a09-4dc3-a8d8-8ea9bf4fd9f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HelloBeego.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_mysql/db.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/person.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/reload.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/default_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/result.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_mysql/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/db_mysql/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,22 +71,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1144" y="233" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601187007969" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1601178277446">
+    <state width="490" height="219" key="GridCell.Tab.0.bottom" timestamp="1601295531997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601178277446" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1601178277446">
+    <state width="490" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601295531997" />
+    <state width="490" height="219" key="GridCell.Tab.0.center" timestamp="1601295531997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601178277446" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1601178277445">
+    <state width="490" height="219" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601295531997" />
+    <state width="490" height="219" key="GridCell.Tab.0.left" timestamp="1601295531997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601178277445" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1601178277446">
+    <state width="490" height="219" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601295531997" />
+    <state width="490" height="219" key="GridCell.Tab.0.right" timestamp="1601295531997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601178277446" />
+    <state width="490" height="219" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601295531997" />
     <state x="44" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1600862325950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

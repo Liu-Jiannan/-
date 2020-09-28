@@ -3,7 +3,6 @@ package main
 import (
 	_ "HelloBeego/routers"
 	"fmt"
-	"github.com/astaxie/beego/session/mysql"
 	"github.com/astaxie/beego"
 )
 
